@@ -1,4 +1,4 @@
-Hi there! <img src="https://github.com/user-attachments/assets/0b606230-23c9-4bcb-b3c8-9fb77555373f" alt="wave" width="20" align="center" />
+# Hi there! <img src="https://github.com/user-attachments/assets/0b606230-23c9-4bcb-b3c8-9fb77555373f" alt="wave" width="20" align="center" />
 
 I'm Aditya
 
