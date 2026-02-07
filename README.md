@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! I’m Aditya 👋
 
-<!--
-**ambre7aditya/ambre7aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Mechatronics Engineering Student**  
+📍 Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)
 
-Here are some ideas to get you started:
+I enjoy building hands-on engineering projects in robotics and mechatronics, focusing on turning ideas into **real, working systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Interests & Focus**
+- 🤖 Robotics & automation  
+- ⚙️ Embedded systems  
+- 📡 Sensors, actuators & control  
+- 🛠️ Practical, project-driven engineering  
+
+📂 This GitHub is a collection of my **projects, experiments, and technical growth** as I continue learning and building.``
+
+Learning through hands-on projects.
