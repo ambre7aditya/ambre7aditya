@@ -1,16 +1,16 @@
-# Hey there! I’m Aditya 👋
+Hey there! https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/fcaddc34-fa21-4198-8c7f-9c560875667c" />
 
-🎓 **Mechatronics Engineering Student**  
+I'm Aditya
+
+🎓 Mechatronics Engineering Student  
 📍 Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)
 
-I enjoy building hands-on engineering projects in robotics and mechatronics, focusing on turning ideas into **real, working systems**.
+Currently working on practical projects in **robotics and mechatronics**, focusing on building real, functional systems and strengthening core engineering fundamentals.
 
-🔧 **Interests & Focus**
-- 🤖 Robotics & automation  
-- ⚙️ Embedded systems  
-- 📡 Sensors, actuators & control  
-- 🛠️ Practical, project-driven engineering  
+### Focus Areas
+- Robotics & automation  
+- Embedded systems  
+- Sensors, actuators & control  
+- Project-driven engineering  
 
-📂 This GitHub is a collection of my **projects, experiments, and technical growth** as I continue learning and building.``
-
-Learning through hands-on projects.
+This GitHub contains my projects, experiments, and ongoing technical development.
