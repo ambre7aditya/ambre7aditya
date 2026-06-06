@@ -8,9 +8,8 @@ I'm Aditya
 Currently working on practical projects in **robotics and mechatronics**, focusing on building real, functional systems and strengthening core engineering fundamentals.
 
 ### Focus Areas
-- Robotics & automation  
-- Embedded systems  
+- Robotics & automation
 - Sensors, actuators & control  
-- Project-driven engineering  
+
 
 This GitHub contains my projects, experiments, and ongoing technical development.
